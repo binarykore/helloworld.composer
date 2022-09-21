@@ -10,6 +10,7 @@
         }
     ],
 	"repositories": [
+	{
 		"type": "package",
 		"package": {
 			"name": "vendor/package",
@@ -20,6 +21,7 @@
 				"reference": "3430ac9"
 			}
 		}
+	}
 	],
     "minimum-stability": "stable",
     "autoload": {
