@@ -1,0 +1,17 @@
+{
+    "name": "binarymako/helloworld.composer",
+    "description": "A simple hello world composer package",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Binary Mako",
+            "email": "binarymako@icloud.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {"binarymako\\HelloWorld\\": "src/"}
+    },
+    "require": {}
+}
