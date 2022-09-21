@@ -12,9 +12,9 @@
 	"repositories": [
 		"type": "package",
 		"package": {
-				"name": "vendor/package",
-				"version": "0.0.1",
-				"source": {
+			"name": "vendor/package",
+			"version": "0.0.1",
+			"source": {
 				"url": "git@github.com:binarykorra/helloworld.composer.git",
 				"type": "git",
 				"reference": "3430ac9"
