@@ -9,20 +9,6 @@
             "email": "binarymako@icloud.com"
         }
     ],
-	"repositories": [
-	{
-		"type": "package",
-		"package": {
-			"name": "vendor/package",
-			"version": "0.0.1",
-			"source": {
-				"url": "git@github.com:binarykorra/helloworld.composer.git",
-				"type": "git",
-				"reference": "3430ac9"
-			}
-		}
-	}
-	],
     "minimum-stability": "stable",
     "autoload": {
         "psr-4": {"binarymako\\HelloWorld\\": "src/"}
