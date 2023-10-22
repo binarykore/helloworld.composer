@@ -1,9 +1,9 @@
 # helloworld.composer
 A simple hello world composer package..
 
-``
+```php
 composer require binarymako/helloworld.composer
-``
+```
 
 
 ### Copyright since ( 2023 )
